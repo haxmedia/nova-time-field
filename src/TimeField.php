@@ -5,6 +5,7 @@ namespace Laraning\NovaTimeField;
 use Closure;
 use Carbon\Carbon;
 use DateTime;
+use Exception;
 use Laravel\Nova\Fields\Field;
 use Laravel\Nova\Http\Requests\NovaRequest;
 
